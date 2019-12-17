@@ -1,0 +1,1 @@
+{"ast":null,"code":"/**\n * Hooks - useForm\n */\nexport * from \"./form\";","map":{"version":3,"sources":["/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/hooks/useForm/index.js"],"names":[],"mappings":"AAAA;;;AAGA","sourcesContent":["/**\n * Hooks - useForm\n */\nexport * from './form'\n"]},"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"export * from \"./pageHeading\";","map":{"version":3,"sources":["/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/pageHeading/components/index.js"],"names":[],"mappings":"AAAA","sourcesContent":["export * from './pageHeading'\n"]},"metadata":{},"sourceType":"module"}

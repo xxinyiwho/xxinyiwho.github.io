@@ -1,0 +1,1 @@
+{"ast":null,"code":"export * from \"./messageTail\";","map":{"version":3,"sources":["/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/organisms/messaging/tail/components/index.js"],"names":[],"mappings":"AAAA","sourcesContent":["export * from './messageTail'\n"]},"metadata":{},"sourceType":"module"}

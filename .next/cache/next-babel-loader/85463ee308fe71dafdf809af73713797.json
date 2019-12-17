@@ -1,0 +1,1 @@
+{"ast":null,"code":"const footerStyle = {\n  margin: 100\n};","map":{"version":3,"sources":["/Users/xxinyi/code/Next/Xinyi-Next/components/Footer.js"],"names":["footerStyle","margin"],"mappings":"AAAA,MAAMA,WAAW,GAAG;AAChBC,EAAAA,MAAM,EAAE;AADQ,CAApB","sourcesContent":["const footerStyle = {\n    margin: 100\n  };"]},"metadata":{},"sourceType":"script"}

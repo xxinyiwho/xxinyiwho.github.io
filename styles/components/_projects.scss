@@ -1,0 +1,257 @@
+// .projects {
+//     margin-top: 150px;
+//   }
+  
+//   .my-projects h1 {
+//     font-size: 50px;
+//   }
+  
+//   .my-projects li {
+//     text-decoration: none;
+//   }
+
+  .my-projects img {
+    height: 250px;
+    width: 400px;
+    margin-top: 130px;
+    box-shadow: 10px 12px 20px -17px rgba(0,0,0,0.75);
+    border-radius: 2px;
+  }
+
+  .my-projects {
+    margin-top: 50px;
+    background-color: #a9e6eb;
+    height: 500px;
+    width: 450px;
+    border-radius: 8px;
+    text-align: center;
+    position: relative;
+  }
+  
+  // .famtravel img {
+  //   height: 250px;
+  //   width: 400px;
+  //   margin-top: 130px;
+  //   box-shadow: 10px 12px 20px -17px rgba(0,0,0,0.75);
+  //   border-radius: 2px;
+  // }
+  
+  // .shake img {
+  //   height: 250px;
+  //   width: 400px;
+  //   margin-top: 130px;
+  //   box-shadow: 10px 12px 20px -17px rgba(0,0,0,0.75);
+  //   border-radius: 2px;
+  // }
+  
+  
+  
+  
+  // .famtravel {
+  //   margin-top: 50px;
+  //   background-color: #dea6b4;
+  //   height: 500px;
+  //   width: 450px;
+  //   border-radius: 8px;
+  //   text-align: center;
+  //   position: relative;
+  // }
+  
+  
+  // .shake {
+  //   background-color: #FFFF84;
+  //   height: 500px;
+  //   width: 450px;
+  //   border-radius: 8px;
+  //   text-align: center;
+  //   position: relative;
+  //   margin-top: 100px;
+  // }
+  
+  // .findoutmore {
+  //  padding-top: 100px;
+  //  text-align: center;
+  //  position: relative;
+  //  margin-top: 100px;
+  //  margin-left: -180px;
+  // }
+  
+  // .findoutmore img {
+  //   height: 200px;
+  //   filter: grayscale(100%);
+  //   transition: .3s ease-in-out;
+  // }
+  
+  // .findoutmore img:hover {
+  //   filter: grayscale(0);
+  // }
+  
+  // .findoutmore h3 {
+  //   padding-top: 50px;
+  // }
+  
+  //  .hover {
+  //   margin-top: -300px;
+  //   height: 500px;
+  //   width: 450px;
+  //   border-radius: 8px;
+  //   text-align: center;
+  //   background-color: black;
+  //   opacity: 0;
+  //   transition: all 0.4s;
+  //   position: absolute;
+  //   top: 0px;
+  //   left: 0px;
+  //   width: 100%;
+  //   height: 100%;
+  // }
+  
+  // .hover a {
+  //   font-size: 25px;
+  //   color: white;
+  //   text-decoration: none;
+  //   position: absolute;
+  //   top: 230px;
+  //   left: 150px;
+  // }
+  
+  // .hover a:hover {
+  //   text-decoration: none;
+  //   color: white;
+  // }
+  
+  // .hover:hover {
+  //   opacity: .9;
+  // }
+  
+  // .projects h3 {
+  //   font-size: 30px;
+  // }
+  
+  // .detail {
+  //   width: 470px;
+  //   padding-top: 30px;
+  //   line-height: 40px;
+  // }
+  
+  // .project-left {
+  //   padding-right: 40px;
+  // }
+  
+  // .project-right {
+  //   padding-left: 40px;
+  // }
+  
+  // @media(max-width: 992px) {
+  //   .projects h2 {
+  //     font-size: 40px;
+  //   }
+  //   .famtravel {
+  //     width: 68%;
+  //     height: 68%;
+  //   }
+  //   .famtravel img {
+  //     height: 160px;
+  //     width: auto;
+  //     margin: 70px 70px 70px 15px !important;
+  //   }
+  //   .superpower {
+  //     width: 68%;
+  //     height: 68%;
+  //   }
+  //   .superpower img {
+  //     height: 160px;
+  //     width: 320px;
+  //     margin: 70px 70px 70px 15px !important;
+  //   }
+  //   .shake {
+  //     width: 68%;
+  //     height: 68%;
+  //   }
+  //   .shake img {
+  //     height: 160px;
+  //     width: 320px;
+  //     margin: 70px 70px 70px 15px !important;
+  //   }
+  //   .findoutmore {
+  //     width: 68%;
+  //     height: 68%;
+  //     margin: 0 !important;
+  //   }
+  //   .findoutmore img {
+  //     height: 160px;
+  //     width: auto;
+  //   }
+  //   .detail {
+  //     width: 350px;
+  //   }
+  //   .detail h3 {
+  //     font-size: 20px;
+  //     margin-top: 5px;
+  //   }
+  //   .detail p {
+  //     font-size: 14px;
+  //   }
+  //   .findoutmore h3 {
+  //     font-size: 16px;
+  //     margin-top: 0 !important;
+  //   }
+  
+  // }
+  
+  // @media(max-width: 768px) {
+  //     .projects h2 {
+  //     font-size: 40px;
+  //   }
+  //   .famtravel {
+  //     width: 68%;
+  //     height: 68%;
+  //   }
+  //   .famtravel img {
+  //     height: 160px;
+  //     width: auto;
+  //     margin: 70px 70px 70px 15px !important;
+  //   }
+  //   .superpower {
+  //     width: 68%;
+  //     height: 68%;
+  //   }
+  //   .superpower img {
+  //     height: 160px;
+  //     width: 320px;
+  //     margin: 70px 70px 70px 15px !important;
+  //   }
+  //   .shake {
+  //     width: 68%;
+  //     height: 68%;
+  //   }
+  //   .shake img {
+  //     height: 160px;
+  //     width: 320px;
+  //     margin: 70px 70px 70px 15px !important;
+  //   }
+  //   .findoutmore {
+  //     width: 68%;
+  //     height: 68%;
+  //     margin: 0 !important;
+  //   }
+  //   .findoutmore img {
+  //     height: 160px;
+  //     width: auto;
+  //   }
+  //   .detail {
+  //     width: 350px;
+  //   }
+  //   .detail h3 {
+  //     font-size: 20px;
+  //     margin-top: 5px;
+  //   }
+  //   .detail p {
+  //     font-size: 14px;
+  //   }
+  //   .findoutmore h3 {
+  //     font-size: 16px;
+  //     margin-top: 0 !important;
+  //   }
+  // }
+  

@@ -1,0 +1,49 @@
+.skills {
+    margin-top: 150px;
+  }
+  
+  .icons img {
+    height: 60px;
+    padding: 20px;
+  }
+  
+  .icons {
+    text-align: center;
+    margin-top: 55px;
+    background-color: rgb(236,236,236);
+    border-radius: 8px;
+  }
+  
+  .description {
+    padding-top: 50px;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    overflow: hidden;
+  }
+  
+  @media(max-width: 992px) {
+    .description h3 {
+      font-size: 20px;
+      margin: 0 !important;
+    }
+    .description p {
+      font-size: 16px;
+      width: 375px;
+      margin: 0 !important;
+    }
+  }
+  
+  @media(max-width: 768px) {
+   .description h3 {
+      font-size: 20px;
+      margin: 0 !important;
+    }
+    .description p {
+      font-size: 16px;
+      width: 375px;
+      margin: 0 !important;
+    }
+  }
+  
+  

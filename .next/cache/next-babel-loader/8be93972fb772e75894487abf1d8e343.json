@@ -1,0 +1,1 @@
+{"ast":null,"code":"/**\n * Tabs\n */\nexport * from \"./tabs\";","map":{"version":3,"sources":["/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/tabs/components/index.js"],"names":[],"mappings":"AAAA;;;AAGA","sourcesContent":["/**\n * Tabs\n */\nexport * from './tabs'\n"]},"metadata":{},"sourceType":"module"}

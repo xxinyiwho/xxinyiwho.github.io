@@ -1,0 +1,1 @@
+{"ast":null,"code":"/**\n * Button\n */\nexport * from \"./table\";","map":{"version":3,"sources":["/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/table/components/index.js"],"names":[],"mappings":"AAAA;;;AAGA","sourcesContent":["/**\n * Button\n */\nexport * from './table'\n"]},"metadata":{},"sourceType":"module"}

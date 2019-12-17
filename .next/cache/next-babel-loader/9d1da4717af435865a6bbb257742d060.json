@@ -1,0 +1,1 @@
+{"ast":null,"code":"/**\n * App\n */\nexport * from \"./app\";","map":{"version":3,"sources":["/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/app/index.js"],"names":[],"mappings":"AAAA;;;AAGA","sourcesContent":["/**\n * App\n */\nexport * from './app'\n"]},"metadata":{},"sourceType":"module"}

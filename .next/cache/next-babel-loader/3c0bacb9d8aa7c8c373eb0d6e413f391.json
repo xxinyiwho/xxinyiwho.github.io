@@ -1,0 +1,1 @@
+{"ast":null,"code":"/**\n * Global\n */\nexport * from \"./style\";","map":{"version":3,"sources":["/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/theme/global/index.js"],"names":[],"mappings":"AAAA;;;AAGA","sourcesContent":["/**\n * Global\n */\nexport * from './style'\n"]},"metadata":{},"sourceType":"module"}

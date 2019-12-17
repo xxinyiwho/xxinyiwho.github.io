@@ -1,0 +1,1 @@
+{"ast":null,"code":"/**\n * Stacked\n */\nexport * from \"./stacked\";","map":{"version":3,"sources":["/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/atoms/icon/stacked/index.js"],"names":[],"mappings":"AAAA;;;AAGA","sourcesContent":["/**\n * Stacked\n */\nexport * from './stacked'\n"]},"metadata":{},"sourceType":"module"}

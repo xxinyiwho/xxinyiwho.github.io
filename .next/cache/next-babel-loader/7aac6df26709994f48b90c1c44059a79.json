@@ -1,0 +1,1 @@
+{"ast":null,"code":"/**\n * Icon\n */\nexport * from \"./icon\";","map":{"version":3,"sources":["/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/atoms/icon/icon/index.js"],"names":[],"mappings":"AAAA;;;AAGA","sourcesContent":["/**\n * Icon\n */\nexport * from './icon'\n"]},"metadata":{},"sourceType":"module"}

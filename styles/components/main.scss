@@ -1,0 +1,66 @@
+@import 'banner';
+@import 'footer';
+@import 'projects';
+@import 'skills';
+@import 'scroll';
+
+html, body {
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+  margin: 0 !important;
+  font-family: 'Raleway', sans-serif;
+  color: black;
+}
+
+.container h1 {
+  font-family: 'Raleway', sans-serif;
+  color: black;
+  font-size: 80px;
+  margin: 0;
+  text-align: center;
+  padding-top: 250px;
+}
+
+body h2 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 50px;
+}
+
+body h3 {
+  font-family: 'Raleway', sans-serif;
+  line-height: 60px;
+  font-weight: bold;
+}
+
+body p {
+  font-family: 'Raleway', sans-serif;
+}
+
+@media(max-width: 992px) {
+  body h1 {
+    font-size: 50px;
+  }
+  .banner img {
+    height: 120px;
+    margin-right: 20px;
+  }
+  .about-me h3 {
+    font-size: 17px;
+  }
+}
+
+@media(max-width: 768px) {
+  body h1 {
+    font-size: 50px;
+  }
+  .banner img {
+    height: 120px;
+    margin-right: 20px;
+  }
+  .about-me h3 {
+    font-size: 17px;
+  }
+}
+
+

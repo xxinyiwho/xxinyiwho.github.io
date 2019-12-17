@@ -1,0 +1,1 @@
+{"ast":null,"code":"export * from \"./messageList\";","map":{"version":3,"sources":["/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/organisms/messaging/list/components/index.js"],"names":[],"mappings":"AAAA","sourcesContent":["export * from './messageList'\n"]},"metadata":{},"sourceType":"module"}

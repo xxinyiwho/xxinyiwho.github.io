@@ -1,0 +1,55 @@
+.section-project h2 {
+    padding-top: 50px;
+  }
+  
+  .banner {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("https://images.unsplash.com/photo-1558591710-4b4a1ae0f04d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80");
+    height: 175vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: scroll !important;
+  }
+  
+  p {
+    font-size: 20px;
+    color: grey;
+  }
+  
+  .view img {
+    height: 180px;
+    position: absolute;
+    position: sticky;
+    top: 100px;
+    left: 1000px;
+    border-radius: 50%;
+    transition: transform 16s ease-in-out;
+  }
+  
+  .view img:hover {
+    transform: rotate(180deg);
+  }
+  
+  .row {
+    margin-right: -185px !important;
+  }
+  
+  .view {
+    height: 100vh;
+  }
+  
+  @media(max-width: 992px) {
+    .banner {
+      height: 1700px;
+    }
+  
+  }
+  
+  @media(max-width: 768px) {
+     .banner {
+      height: 1700px;
+    }
+  
+  }
+  
