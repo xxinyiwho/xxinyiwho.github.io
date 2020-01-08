@@ -1,8 +1,17 @@
 // import link from 'next/link';
-import { Card, Carousel, Image } from 'industry-ui'
+import { Card, Carousel, Image, Column } from 'industry-ui'
 
 const bodyStyle = {
   margin: 100
+}
+
+const cardStyle = {
+  margin: 60,
+  paddingTop: 70
+}
+
+const imageStyle = {
+  padding: 5
 }
 
 function myProjects () {
@@ -42,13 +51,17 @@ export default function Project () {
       <h2 style={bodyStyle}>More about me</h2>
       <ul>
         {myProjects().map(project => (
-          <div className='my-projects'>
+          <div className='my-projects' style={cardStyle} >
             {/* <li key={project.id} style={bodyStyle}> */}
             {/* <a href={project.link}>{project.title}<img src={project.img} alt="" /></a> */}
             {/* </li> */}
-            <Card center shadow footer={project.title}>
-              <Image alt='' src={project.img} />
+            {/* <Carousel> */}
+            <Column lg={15}>
+            <Card center footer={project.title} to={{href:project.link}}>
+              <Image alt='' src={project.img} style={imageStyle} />
             </Card>
+            </Column>
+            {/* </Carousel> */}
           </div>
         ))}
       </ul>

@@ -426,7 +426,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var industry_ui__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! industry-ui */ "./node_modules/industry-ui/index.js");
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./ */ "./config/index.js");
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/config/navigation.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/config/navigation.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -1071,7 +1071,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _fortawesome_fontawesome_svg_core_styles_css__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(_fortawesome_fontawesome_svg_core_styles_css__WEBPACK_IMPORTED_MODULE_9__);
 
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/app/app.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/app/app.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement;
 
 /**
@@ -1219,7 +1219,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/atoms/address/components/address.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/atoms/address/components/address.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 /**
@@ -1361,7 +1361,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_4__);
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/atoms/avatar/components/avatar.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/atoms/avatar/components/avatar.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 /**
@@ -1494,7 +1494,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_4__);
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/atoms/badge/components/badge.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/atoms/badge/components/badge.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 /**
@@ -1607,7 +1607,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/atoms/blockquote/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/atoms/blockquote/index.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 /**
@@ -1683,7 +1683,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_5__);
 
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/atoms/button/components/button/button.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/atoms/button/components/button/button.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement;
 
@@ -1851,7 +1851,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/atoms/button/components/toolbar/toolbar.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/atoms/button/components/toolbar/toolbar.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -1953,7 +1953,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_5__);
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/atoms/close/components/close.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/atoms/close/components/close.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
@@ -2064,7 +2064,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! prop-types */ "prop-types");
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/atoms/date/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/atoms/date/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -2109,7 +2109,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/atoms/details/components/details.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/atoms/details/components/details.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -2216,7 +2216,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_5__);
 
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/atoms/divider/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/atoms/divider/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement;
 
@@ -2272,7 +2272,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/atoms/figure/components/caption.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/atoms/figure/components/caption.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -2334,7 +2334,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_5__);
 
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/atoms/figure/components/image.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/atoms/figure/components/image.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement;
 
@@ -2416,7 +2416,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./components */ "./node_modules/industry-ui/components/atoms/figure/components/index.js");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/atoms/figure/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/atoms/figure/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -2503,7 +2503,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/atoms/form/checkbox/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/atoms/form/checkbox/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -2615,7 +2615,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_3__);
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/atoms/form/form/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/atoms/form/form/index.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 /**
@@ -2865,7 +2865,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_5__);
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/atoms/form/input/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/atoms/form/input/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
@@ -3008,7 +3008,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/atoms/form/inputGroup/addon.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/atoms/form/inputGroup/addon.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -3076,7 +3076,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/atoms/form/inputGroup/group.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/atoms/form/inputGroup/group.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 /**
@@ -3154,7 +3154,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/atoms/form/label/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/atoms/form/label/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -3222,7 +3222,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/atoms/form/radio/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/atoms/form/radio/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -3360,7 +3360,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/atoms/form/reactSelect/components/ReactSelect.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/atoms/form/reactSelect/components/ReactSelect.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement;
 
@@ -3818,7 +3818,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! prop-types */ "prop-types");
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../ */ "./node_modules/industry-ui/components/index.js");
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/atoms/form/search/components/search.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/atoms/form/search/components/search.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -3986,7 +3986,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_4__);
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/atoms/form/select/Select.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/atoms/form/select/Select.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
@@ -4128,7 +4128,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../ */ "./node_modules/industry-ui/components/atoms/form/index.js");
 /* harmony import */ var _constants__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../constants */ "./node_modules/industry-ui/components/constants/index.js");
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/atoms/form/select/breed.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/atoms/form/select/breed.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -4186,7 +4186,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../ */ "./node_modules/industry-ui/components/atoms/form/index.js");
 /* harmony import */ var _constants__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../constants */ "./node_modules/industry-ui/components/constants/index.js");
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/atoms/form/select/country.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/atoms/form/select/country.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -4263,7 +4263,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../ */ "./node_modules/industry-ui/components/atoms/form/index.js");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/atoms/form/textarea/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/atoms/form/textarea/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -4497,7 +4497,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/atoms/grid/components/Column.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/atoms/grid/components/Column.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -4625,7 +4625,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/atoms/grid/components/Container.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/atoms/grid/components/Container.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -4711,7 +4711,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/atoms/grid/components/Row.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/atoms/grid/components/Row.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -4895,7 +4895,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_4__);
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/atoms/heading/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/atoms/heading/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
@@ -5018,7 +5018,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/atoms/icon/icon/icon.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/atoms/icon/icon/icon.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement;
 
@@ -5150,7 +5150,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! prop-types */ "prop-types");
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../ */ "./node_modules/industry-ui/components/index.js");
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/atoms/icon/stacked/stacked.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/atoms/icon/stacked/stacked.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -5230,7 +5230,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_4__);
 
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/atoms/image/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/atoms/image/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement;
 
@@ -5465,7 +5465,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_3__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../ */ "./node_modules/industry-ui/components/index.js");
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/atoms/link/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/atoms/link/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
@@ -5551,7 +5551,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/atoms/list/components/list.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/atoms/list/components/list.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 /**
@@ -5646,7 +5646,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _icon__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../icon */ "./node_modules/industry-ui/components/atoms/icon/index.js");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/atoms/list/components/listItem.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/atoms/list/components/listItem.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -5861,7 +5861,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../../ */ "./node_modules/industry-ui/components/index.js");
 
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/atoms/progress/components/progressBar.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/atoms/progress/components/progressBar.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement;
 
 /**
@@ -6072,7 +6072,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _atoms_heading__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../atoms/heading */ "./node_modules/industry-ui/components/atoms/heading/index.js");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_6__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/blog/card/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/blog/card/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -6321,7 +6321,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_4__);
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/blog/categories/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/blog/categories/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
@@ -6454,7 +6454,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../ */ "./node_modules/industry-ui/components/index.js");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/blog/category/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/blog/category/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -6544,7 +6544,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../ */ "./node_modules/industry-ui/components/index.js");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/blog/details/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/blog/details/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -6748,7 +6748,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! prop-types */ "prop-types");
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../ */ "./node_modules/industry-ui/components/index.js");
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/blog/hero/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/blog/hero/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -6900,7 +6900,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var lodash_filter__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! lodash/filter */ "lodash/filter");
 /* harmony import */ var lodash_filter__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(lodash_filter__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../ */ "./node_modules/industry-ui/components/index.js");
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/blog/listing/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/blog/listing/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -6993,7 +6993,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! prop-types */ "prop-types");
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/blog/readTime/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/blog/readTime/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -7038,7 +7038,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../ */ "./node_modules/industry-ui/components/index.js");
 /* harmony import */ var _components__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./components */ "./node_modules/industry-ui/components/blog/sidebar/components/index.js");
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/blog/sidebar/archive.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/blog/sidebar/archive.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
@@ -7140,7 +7140,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../ */ "./node_modules/industry-ui/components/index.js");
 /* harmony import */ var _components__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./components */ "./node_modules/industry-ui/components/blog/sidebar/components/index.js");
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/blog/sidebar/author.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/blog/sidebar/author.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
@@ -7263,7 +7263,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../ */ "./node_modules/industry-ui/components/index.js");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/blog/sidebar/components/list.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/blog/sidebar/components/list.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -7389,7 +7389,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../ */ "./node_modules/industry-ui/components/index.js");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/blog/sidebar/components/section.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/blog/sidebar/components/section.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -7463,7 +7463,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./components */ "./node_modules/industry-ui/components/blog/sidebar/components/index.js");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_4__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/blog/sidebar/findFood.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/blog/sidebar/findFood.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -7843,7 +7843,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! prop-types */ "prop-types");
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _components__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./components */ "./node_modules/industry-ui/components/blog/sidebar/components/index.js");
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/blog/sidebar/media.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/blog/sidebar/media.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -7899,7 +7899,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../ */ "./node_modules/industry-ui/components/index.js");
 /* harmony import */ var _components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./components */ "./node_modules/industry-ui/components/blog/sidebar/components/index.js");
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/blog/sidebar/promo.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/blog/sidebar/promo.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -7955,7 +7955,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../ */ "./node_modules/industry-ui/components/index.js");
 /* harmony import */ var _components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./components */ "./node_modules/industry-ui/components/blog/sidebar/components/index.js");
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/blog/sidebar/recent.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/blog/sidebar/recent.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -8044,7 +8044,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../ */ "./node_modules/industry-ui/components/index.js");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/blog/sidebar/sidebar.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/blog/sidebar/sidebar.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -8169,7 +8169,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../ */ "./node_modules/industry-ui/components/index.js");
 /* harmony import */ var _components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./components */ "./node_modules/industry-ui/components/blog/sidebar/components/index.js");
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/blog/sidebar/social.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/blog/sidebar/social.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -8259,7 +8259,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../ */ "./node_modules/industry-ui/components/index.js");
 /* harmony import */ var _components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./components */ "./node_modules/industry-ui/components/blog/sidebar/components/index.js");
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/blog/sidebar/tag-cloud.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/blog/sidebar/tag-cloud.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -8420,7 +8420,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../ */ "./node_modules/industry-ui/components/index.js");
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/blog/tags/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/blog/tags/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
@@ -10322,7 +10322,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/form/error/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/form/error/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -10395,7 +10395,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/form/field/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/form/field/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement;
 
@@ -10503,7 +10503,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/form/form/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/form/form/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -10590,7 +10590,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/form/label/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/form/label/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -11310,7 +11310,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! prop-types */ "prop-types");
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../ */ "./node_modules/industry-ui/components/index.js");
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/layouts/bootstrap/components/bootstrap.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/layouts/bootstrap/components/bootstrap.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 /**
@@ -11409,7 +11409,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! prop-types */ "prop-types");
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../ */ "./node_modules/industry-ui/components/index.js");
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/layouts/dashboard/dashboard.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/layouts/dashboard/dashboard.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -11553,7 +11553,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../../ */ "./node_modules/industry-ui/components/index.js");
 /* harmony import */ var _config__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../../../../../config */ "./config/index.js");
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/layouts/page/components/page.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/layouts/page/components/page.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
@@ -11674,7 +11674,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../ */ "./node_modules/industry-ui/components/index.js");
 /* harmony import */ var _config__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../../../config */ "./config/index.js");
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/layouts/sidebar/sidebar.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/layouts/sidebar/sidebar.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -11768,7 +11768,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/head */ "next/head");
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/meta/head.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/meta/head.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -11922,7 +11922,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../ */ "./node_modules/industry-ui/components/molecules/index.js");
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/accordion/components/accordion.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/accordion/components/accordion.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 /**
@@ -12030,7 +12030,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_5__);
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/accordion/components/accordionItem.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/accordion/components/accordionItem.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 /**
@@ -12190,7 +12190,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_5__);
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/alert/components/alert.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/alert/components/alert.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
@@ -12310,7 +12310,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../ */ "./node_modules/industry-ui/components/index.js");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/alert/components/content.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/alert/components/content.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -12377,7 +12377,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_4__);
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/alert/components/header.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/alert/components/header.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
@@ -12496,7 +12496,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../ */ "./node_modules/industry-ui/components/index.js");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/breadcrumb/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/breadcrumb/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -12676,7 +12676,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! prop-types */ "prop-types");
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../ */ "./node_modules/industry-ui/index.js");
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/buttons/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/buttons/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -12799,7 +12799,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_4__);
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/card/components/body.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/card/components/body.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
@@ -12907,7 +12907,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_5__);
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/card/components/card.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/card/components/card.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 /**
@@ -13102,7 +13102,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../ */ "./node_modules/industry-ui/components/index.js");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/card/components/decks.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/card/components/decks.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -13161,7 +13161,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_4__);
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/card/components/footer.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/card/components/footer.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
@@ -13227,7 +13227,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_3__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../../ */ "./node_modules/industry-ui/components/index.js");
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/card/components/header.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/card/components/header.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
@@ -13286,7 +13286,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../ */ "./node_modules/industry-ui/components/index.js");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/card/components/image.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/card/components/image.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -13423,7 +13423,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../ */ "./node_modules/industry-ui/components/index.js");
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/carousel/components/carousel.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/carousel/components/carousel.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 /**
@@ -13649,7 +13649,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/charts/lineChart/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/charts/lineChart/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement;
 
@@ -13877,7 +13877,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/charts/pieChart/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/charts/pieChart/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement;
 
@@ -14072,7 +14072,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/charts/responsiveBar/components/barChart.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/charts/responsiveBar/components/barChart.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement;
 // React
 
@@ -14303,7 +14303,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../ */ "./node_modules/industry-ui/components/index.js");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/copyright/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/copyright/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -14428,7 +14428,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_datepicker_dist_react_datepicker_css__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! react-datepicker/dist/react-datepicker.css */ "./node_modules/react-datepicker/dist/react-datepicker.css");
 /* harmony import */ var react_datepicker_dist_react_datepicker_css__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(react_datepicker_dist_react_datepicker_css__WEBPACK_IMPORTED_MODULE_6__);
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/datePicker/calendar/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/datePicker/calendar/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
@@ -14703,7 +14703,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _constants_dates__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./constants/dates */ "./node_modules/industry-ui/components/molecules/datePicker/input/constants/dates.js");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_4__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/datePicker/input/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/datePicker/input/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -14867,7 +14867,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! prop-types */ "prop-types");
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../ */ "./node_modules/industry-ui/components/index.js");
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/dog/card/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/dog/card/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -15002,7 +15002,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! prop-types */ "prop-types");
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../ */ "./node_modules/industry-ui/components/index.js");
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/dog/link/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/dog/link/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -15066,7 +15066,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! prop-types */ "prop-types");
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../ */ "./node_modules/industry-ui/components/index.js");
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/dog/name/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/dog/name/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -15120,7 +15120,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_tooltip__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react-tooltip */ "react-tooltip");
 /* harmony import */ var react_tooltip__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react_tooltip__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../../ */ "./node_modules/industry-ui/components/index.js");
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/dog/table/components/actions.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/dog/table/components/actions.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -15279,7 +15279,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../../ */ "./node_modules/industry-ui/components/molecules/index.js");
 /* harmony import */ var _actions__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./actions */ "./node_modules/industry-ui/components/molecules/dog/table/components/actions.js");
 /* harmony import */ var _columns__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./columns */ "./node_modules/industry-ui/components/molecules/dog/table/components/columns.js");
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/dog/table/components/table.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/dog/table/components/table.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -15356,7 +15356,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../ */ "./node_modules/industry-ui/components/index.js");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/dropdown/components/dropdown.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/dropdown/components/dropdown.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 /**
@@ -15481,7 +15481,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../ */ "./node_modules/industry-ui/components/index.js");
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/dropdown/components/dropdownItem.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/dropdown/components/dropdownItem.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 /**
@@ -15582,7 +15582,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../ */ "./node_modules/industry-ui/components/molecules/index.js");
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/dropdown/components/dropdownMenu.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/dropdown/components/dropdownMenu.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 /**
@@ -15709,7 +15709,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! prop-types */ "prop-types");
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/dropzone/components/accept.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/dropzone/components/accept.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 /**
@@ -15761,7 +15761,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_5__);
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/dropzone/components/dropzone.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/dropzone/components/dropzone.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 /**
@@ -16033,7 +16033,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../ */ "./node_modules/industry-ui/components/index.js");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/dropzone/components/preview.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/dropzone/components/preview.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -16143,7 +16143,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/emojiMart/components/emojiMart.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/emojiMart/components/emojiMart.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement;
 
 function ownKeys(object, enumerableOnly) { var keys = _babel_runtime_corejs2_core_js_object_keys__WEBPACK_IMPORTED_MODULE_5___default()(object); if (_babel_runtime_corejs2_core_js_object_get_own_property_symbols__WEBPACK_IMPORTED_MODULE_4___default.a) { var symbols = _babel_runtime_corejs2_core_js_object_get_own_property_symbols__WEBPACK_IMPORTED_MODULE_4___default()(object); if (enumerableOnly) symbols = symbols.filter(function (sym) { return _babel_runtime_corejs2_core_js_object_get_own_property_descriptor__WEBPACK_IMPORTED_MODULE_3___default()(object, sym).enumerable; }); keys.push.apply(keys, symbols); } return keys; }
@@ -16301,7 +16301,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/getAddress/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/getAddress/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement;
 
@@ -16528,7 +16528,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../ */ "./node_modules/industry-ui/components/index.js");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/hero/components/buttons.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/hero/components/buttons.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -16594,7 +16594,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../ */ "./node_modules/industry-ui/components/index.js");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/hero/components/image.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/hero/components/image.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -16704,7 +16704,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./components */ "./node_modules/industry-ui/components/molecules/hero/components/index.js");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_4__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/hero/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/hero/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -16868,7 +16868,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/imageLocation/components/dot.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/imageLocation/components/dot.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 /**
@@ -16927,7 +16927,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../../ */ "./node_modules/industry-ui/components/index.js");
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../ */ "./node_modules/industry-ui/components/molecules/index.js");
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/imageLocation/components/imageLocation.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/imageLocation/components/imageLocation.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 /**
@@ -17037,7 +17037,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../ */ "./node_modules/industry-ui/components/index.js");
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../ */ "./node_modules/industry-ui/components/molecules/index.js");
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/imageLocation/components/imageWrapper.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/imageLocation/components/imageWrapper.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 /**
@@ -17483,7 +17483,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/map/dynamicLocation/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/map/dynamicLocation/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement;
 
@@ -17634,7 +17634,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! prop-types */ "prop-types");
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../ */ "./node_modules/industry-ui/components/index.js");
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/map/staticLocation/location.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/map/staticLocation/location.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -17761,7 +17761,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../ */ "./node_modules/industry-ui/components/index.js");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/navbar/components/brand/brand.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/navbar/components/brand/brand.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -17850,7 +17850,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../ */ "./node_modules/industry-ui/components/index.js");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/navbar/components/contained/contained.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/navbar/components/contained/contained.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 /**
@@ -18003,7 +18003,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../../ */ "./node_modules/industry-ui/components/index.js");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_4__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/navbar/components/navbar/navbar.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/navbar/components/navbar/navbar.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 /**
@@ -18165,7 +18165,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../ */ "./node_modules/industry-ui/components/index.js");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/navbar/components/toggler/toggler.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/navbar/components/toggler/toggler.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -18252,7 +18252,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../ */ "./node_modules/industry-ui/components/index.js");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/navbar/components/widgets/button.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/navbar/components/widgets/button.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -18385,7 +18385,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _dropdown__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../dropdown */ "./node_modules/industry-ui/components/molecules/dropdown/index.js");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_4__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/navbar/components/widgets/dropdown.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/navbar/components/widgets/dropdown.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -18481,7 +18481,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! prop-types */ "prop-types");
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../ */ "./node_modules/industry-ui/components/index.js");
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/navbar/components/widgets/icon.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/navbar/components/widgets/icon.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -18590,7 +18590,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../ */ "./node_modules/industry-ui/components/index.js");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/navbar/components/widgets/link.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/navbar/components/widgets/link.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -18676,7 +18676,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../ */ "./node_modules/industry-ui/components/index.js");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/navbar/components/widgets/notification.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/navbar/components/widgets/notification.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -18796,7 +18796,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_5__);
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/navbar/components/widgets/widgets.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/navbar/components/widgets/widgets.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
@@ -19001,7 +19001,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../ */ "./node_modules/industry-ui/components/index.js");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/notification/components/notification.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/notification/components/notification.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -19265,7 +19265,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./components */ "./node_modules/industry-ui/components/molecules/offCanvas/components/index.js");
 
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/offCanvas/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/offCanvas/index.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement;
 // React
 
@@ -19385,7 +19385,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_5__);
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/pageHeading/components/pageHeading.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/pageHeading/components/pageHeading.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
@@ -19531,7 +19531,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../ */ "./node_modules/industry-ui/components/index.js");
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/rating/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/rating/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -19603,7 +19603,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../ */ "./node_modules/industry-ui/components/index.js");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/section/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/section/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -19711,7 +19711,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_6__);
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/sidebar/components/sidebar.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/sidebar/components/sidebar.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
@@ -19937,7 +19937,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./ */ "./node_modules/industry-ui/components/molecules/stepper/components/index.js");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/stepper/components/stepper.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/stepper/components/stepper.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -20014,7 +20014,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../ */ "./node_modules/industry-ui/components/index.js");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_4__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/stepper/components/stepperItem.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/stepper/components/stepperItem.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -20165,7 +20165,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/stepper/components/timings.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/stepper/components/timings.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -20359,7 +20359,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_5__);
 
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/table/components/table.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/table/components/table.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement;
 
@@ -20595,7 +20595,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_tooltip__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(react_tooltip__WEBPACK_IMPORTED_MODULE_4__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../../ */ "./node_modules/industry-ui/components/index.js");
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/table/formatter/actions.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/table/formatter/actions.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
@@ -20718,7 +20718,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../../ */ "./node_modules/industry-ui/components/index.js");
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/table/formatter/link.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/table/formatter/link.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -20829,7 +20829,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/tabs/components/tab.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/tabs/components/tab.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -20910,7 +20910,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_5__);
 
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/tabs/components/tabs.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/tabs/components/tabs.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement;
 
 /**
@@ -21045,7 +21045,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../../ */ "./node_modules/industry-ui/components/index.js");
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/webcam/components/design.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/webcam/components/design.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -21187,7 +21187,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var _class,
     _temp,
-    _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/molecules/webcam/components/webcam.js";
+    _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/molecules/webcam/components/webcam.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement;
 
@@ -21567,7 +21567,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_hook_form__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react-hook-form */ "react-hook-form");
 /* harmony import */ var react_hook_form__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react_hook_form__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../ */ "./node_modules/industry-ui/components/index.js");
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/organisms/emailChange/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/organisms/emailChange/index.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 /**
@@ -21698,7 +21698,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_4__);
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/organisms/footer/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/organisms/footer/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
@@ -21895,7 +21895,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../ */ "./node_modules/industry-ui/components/index.js");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_4__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/organisms/forgotDetails/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/organisms/forgotDetails/index.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 /**
@@ -22043,7 +22043,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../ */ "./node_modules/industry-ui/components/index.js");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_4__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/organisms/forgotDetailsReset/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/organisms/forgotDetailsReset/index.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 /**
@@ -22190,7 +22190,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../../ */ "./node_modules/industry-ui/index.js");
 
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/organisms/fullCalendar/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/organisms/fullCalendar/index.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement;
 
 /**
@@ -22360,7 +22360,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../ */ "./node_modules/industry-ui/index.js");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_4__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/organisms/login/login.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/organisms/login/login.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 /**
@@ -22638,7 +22638,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/organisms/messaging/background/components/messageBackground.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/organisms/messaging/background/components/messageBackground.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -22707,7 +22707,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../ */ "./node_modules/industry-ui/components/organisms/messaging/index.js");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/organisms/messaging/container/components/container.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/organisms/messaging/container/components/container.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -22892,7 +22892,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! prop-types */ "prop-types");
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../ */ "./node_modules/industry-ui/components/organisms/messaging/index.js");
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/organisms/messaging/list/components/messageList.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/organisms/messaging/list/components/messageList.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 /**
@@ -22980,7 +22980,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../ */ "./node_modules/industry-ui/components/organisms/messaging/index.js");
 
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/organisms/messaging/message/components/message.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/organisms/messaging/message/components/message.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement;
 
@@ -23073,7 +23073,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../ */ "./node_modules/industry-ui/components/index.js");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/organisms/messaging/messageBase/components/icon.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/organisms/messaging/messageBase/components/icon.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 /**
@@ -23163,7 +23163,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _to__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./to */ "./node_modules/industry-ui/components/organisms/messaging/messageBase/components/to.js");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_5__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/organisms/messaging/messageBase/components/messageBase.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/organisms/messaging/messageBase/components/messageBase.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 /**
@@ -23413,7 +23413,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../ */ "./node_modules/industry-ui/components/index.js");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/organisms/messaging/messageBase/components/to.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/organisms/messaging/messageBase/components/to.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 /**
@@ -23521,7 +23521,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../ */ "./node_modules/industry-ui/components/index.js");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/organisms/messaging/search/components/search.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/organisms/messaging/search/components/search.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 /**
@@ -23676,7 +23676,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../ */ "./node_modules/industry-ui/components/index.js");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/organisms/messaging/send/components/send.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/organisms/messaging/send/components/send.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 /**
@@ -23993,7 +23993,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_hook_form__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react-hook-form */ "react-hook-form");
 /* harmony import */ var react_hook_form__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react_hook_form__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../ */ "./node_modules/industry-ui/components/index.js");
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/organisms/passwordChange/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/organisms/passwordChange/index.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 /**
@@ -24130,7 +24130,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../ */ "./node_modules/industry-ui/components/index.js");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/organisms/register/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/organisms/register/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -24494,7 +24494,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/router */ "next/router");
 /* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_router__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../ */ "./node_modules/industry-ui/components/index.js");
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/services/authentication/providers/userProvider.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/services/authentication/providers/userProvider.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 /**
@@ -25403,7 +25403,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! prop-types */ "prop-types");
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/social/facebook/pagePlugin.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/social/facebook/pagePlugin.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -25519,7 +25519,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! prop-types */ "prop-types");
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/social/facebook/shareButton.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/social/facebook/shareButton.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -25603,7 +25603,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "HubspotForm", function() { return HubspotForm; });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/social/hubspot/form.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/social/hubspot/form.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 /**
@@ -25790,7 +25790,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! prop-types */ "prop-types");
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/social/typeform/typeformEmbed.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/social/typeform/typeformEmbed.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 /**
@@ -25877,7 +25877,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var ___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../ */ "./node_modules/industry-ui/components/index.js");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/templates/article/index.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/templates/article/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -29520,7 +29520,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var industry_ui__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! industry-ui */ "./node_modules/industry-ui/index.js");
 /* harmony import */ var _config__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../config */ "./config/index.js");
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/pages/_app.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/pages/_app.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 

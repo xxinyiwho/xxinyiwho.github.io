@@ -3,7 +3,7 @@
   }
   
   .icons img {
-    height: 60px;
+    height: 100px;
     padding: 20px;
   }
   
@@ -20,7 +20,11 @@
     display: flex;
     justify-content: space-evenly;
     overflow: hidden;
+    h3 {
+      font-size: 23px;
+    }
   }
+
   
   @media(max-width: 992px) {
     .description h3 {

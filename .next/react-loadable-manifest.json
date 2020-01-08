@@ -1,32 +1,14 @@
 {
   "./calendarWrapper": [
     {
-      "id": 11,
+      "id": "./node_modules/react-datepicker/dist/react-datepicker.css",
+      "name": "./node_modules/react-datepicker/dist/react-datepicker.css",
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
+    },
+    {
+      "id": 4,
       "name": null,
-      "file": "static/chunks/styles.js",
-      "publicPath": "static/chunks/styles.js"
-    },
-    {
-      "id": "./node_modules/@fortawesome/fontawesome-svg-core/styles.css",
-      "name": "./node_modules/@fortawesome/fontawesome-svg-core/styles.css",
-      "file": "static/chunks/styles.js",
-      "publicPath": "static/chunks/styles.js"
-    },
-    {
-      "id": "./node_modules/@fullcalendar/core/main.css",
-      "name": "./node_modules/@fullcalendar/core/main.css",
-      "file": "static/chunks/styles.js",
-      "publicPath": "static/chunks/styles.js"
-    },
-    {
-      "id": "./node_modules/@fullcalendar/daygrid/main.css",
-      "name": "./node_modules/@fullcalendar/daygrid/main.css",
-      "file": "static/chunks/styles.js",
-      "publicPath": "static/chunks/styles.js"
-    },
-    {
-      "id": "./node_modules/@fullcalendar/timegrid/main.css",
-      "name": "./node_modules/@fullcalendar/timegrid/main.css",
       "file": "static/chunks/styles.js",
       "publicPath": "static/chunks/styles.js"
     },
@@ -43,20 +25,8 @@
       "publicPath": "static/chunks/styles.js"
     },
     {
-      "id": 4,
-      "name": null,
-      "file": "static/chunks/styles.js",
-      "publicPath": "static/chunks/styles.js"
-    },
-    {
-      "id": "./node_modules/react-datepicker/dist/react-datepicker.css",
-      "name": "./node_modules/react-datepicker/dist/react-datepicker.css",
-      "file": "static/chunks/styles.js",
-      "publicPath": "static/chunks/styles.js"
-    },
-    {
-      "id": 7,
-      "name": null,
+      "id": "./node_modules/@fortawesome/fontawesome-svg-core/styles.css",
+      "name": "./node_modules/@fortawesome/fontawesome-svg-core/styles.css",
       "file": "static/chunks/styles.js",
       "publicPath": "static/chunks/styles.js"
     },
@@ -67,14 +37,44 @@
       "publicPath": "static/chunks/styles.js"
     },
     {
+      "id": "./styles/components/main.scss",
+      "name": "./styles/components/main.scss",
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
+    },
+    {
+      "id": 11,
+      "name": null,
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
+    },
+    {
+      "id": "./node_modules/@fullcalendar/core/main.css",
+      "name": "./node_modules/@fullcalendar/core/main.css",
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
+    },
+    {
+      "id": 7,
+      "name": null,
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
+    },
+    {
+      "id": "./node_modules/@fullcalendar/daygrid/main.css",
+      "name": "./node_modules/@fullcalendar/daygrid/main.css",
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
+    },
+    {
       "id": 8,
       "name": null,
       "file": "static/chunks/styles.js",
       "publicPath": "static/chunks/styles.js"
     },
     {
-      "id": "./styles/components/main.scss",
-      "name": "./styles/components/main.scss",
+      "id": "./node_modules/@fullcalendar/timegrid/main.css",
+      "name": "./node_modules/@fullcalendar/timegrid/main.css",
       "file": "static/chunks/styles.js",
       "publicPath": "static/chunks/styles.js"
     },
