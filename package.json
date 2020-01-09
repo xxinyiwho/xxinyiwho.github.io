@@ -33,7 +33,7 @@
     "react-dom": "^16.11.0",
     "react-dropzone": "^10.2.1",
     "react-google-maps": "^9.4.5",
-    "react-hook-form": "^3.28.13",
+    "react-hook-form": "^4.4.6",
     "react-select": "^3.0.5",
     "react-tooltip": "^3.11.1",
     "styled-components": "^4.4.1"

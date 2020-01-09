@@ -12,7 +12,7 @@ export default function Header () {
         <p>Designed and developed by Xinyi Wu</p>
         <a href='https://www.linkedin.com/in/xinyi-wu-78722a92/'><img src='static/images/linkedin.jpeg' alt='' /></a>
         <div className='copy'>
-          <p>© 2019 Xinyi Wu</p>
+          <p>© 2020 Xinyi Wu</p>
         </div>
       </div>
     </>
