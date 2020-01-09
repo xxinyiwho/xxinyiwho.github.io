@@ -4683,12 +4683,12 @@ var e,t=(e=__webpack_require__(/*! querystring */ "./node_modules/querystring-es
 
 /***/ "./node_modules/next/dist/build/polyfills/object-assign.js":
 /*!***********************************************************************************************************************!*\
-  !*** delegated ./node_modules/next/dist/build/polyfills/object-assign.js from dll-reference dll_5f137288facb1107b491 ***!
+  !*** delegated ./node_modules/next/dist/build/polyfills/object-assign.js from dll-reference dll_ef0ff7c60362f24a921f ***!
   \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = (__webpack_require__(/*! dll-reference dll_5f137288facb1107b491 */ "dll-reference dll_5f137288facb1107b491"))("./node_modules/next/dist/build/polyfills/object-assign.js");
+module.exports = (__webpack_require__(/*! dll-reference dll_ef0ff7c60362f24a921f */ "dll-reference dll_ef0ff7c60362f24a921f"))("./node_modules/next/dist/build/polyfills/object-assign.js");
 
 /***/ }),
 
@@ -5157,7 +5157,7 @@ function connect(options) {
       error.name = err.name;
       error.stack = err.stack; // __NEXT_DIST_DIR is provided by webpack
 
-      (0, _sourceMapSupport.rewriteStacktrace)(error, "/Users/ianwarner/Documents/Xinyi-Next/.next");
+      (0, _sourceMapSupport.rewriteStacktrace)(error, "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/.next");
       return error;
     }
   };
@@ -6490,6 +6490,9 @@ function () {
                   (0, _onDemandEntriesUtils.closePing)();
                 }
               });
+              window.addEventListener('beforeunload', function () {
+                (0, _onDemandEntriesUtils.closePing)();
+              });
             }
 
           case 4:
@@ -6999,7 +7002,7 @@ if (!window.Promise) {
 
 var data = JSON.parse(document.getElementById('__NEXT_DATA__').textContent);
 window.__NEXT_DATA__ = data;
-var version = "9.1.6";
+var version = "9.1.7";
 exports.version = version;
 var props = data.props,
     err = data.err,
@@ -7700,36 +7703,32 @@ var _asyncToGenerator2 = _interopRequireDefault(__webpack_require__(/*! @babel/r
 var _promise = _interopRequireDefault(__webpack_require__(/*! @babel/runtime-corejs2/core-js/promise */ "./node_modules/@babel/runtime-corejs2/core-js/promise.js"));
 
 var _mitt = _interopRequireDefault(__webpack_require__(/*! ../next-server/lib/mitt */ "./node_modules/next/dist/next-server/lib/mitt.js"));
-/* global document, window */
 
-
-var prefetchOrPreload = undefined ? 'prefetch' : 'preload';
-
-function supportsPreload(el) {
+function hasRel(rel, link) {
   try {
-    return el.relList.supports(prefetchOrPreload);
-  } catch (_unused) {
-    return false;
-  }
+    link = document.createElement('link');
+    return link.relList.supports(rel);
+  } catch (_unused) {}
 }
 
-var hasPreload = supportsPreload(document.createElement('link'));
+var relPrefetch = hasRel('preload') && !hasRel('prefetch') ? // https://caniuse.com/#feat=link-rel-preload
+// macOS and iOS (Safari does not support prefetch)
+'preload' : // https://caniuse.com/#feat=link-rel-prefetch
+// IE 11, Edge 12+, nearly all evergreen
+'prefetch';
+var hasNoModule = 'noModule' in document.createElement('script');
 
-function preloadLink(url, resourceType) {
-  var link = document.createElement('link');
-  link.rel = prefetchOrPreload;
-  link.crossOrigin = undefined;
-  link.href = url;
-  link.as = resourceType;
-  document.head.appendChild(link);
-}
-
-function loadStyle(url) {
-  var link = document.createElement('link');
-  link.rel = 'stylesheet';
-  link.crossOrigin = undefined;
-  link.href = url;
-  document.head.appendChild(link);
+function appendLink(href, rel, as) {
+  return new _promise["default"](function (res, rej, link) {
+    link = document.createElement('link');
+    link.crossOrigin = undefined;
+    link.href = href;
+    link.rel = rel;
+    if (as) link.as = as;
+    link.onload = res;
+    link.onerror = rej;
+    document.head.appendChild(link);
+  });
 }
 
 var PageLoader =
@@ -7741,6 +7740,7 @@ function () {
     this.buildId = buildId;
     this.assetPrefix = assetPrefix;
     this.pageCache = {};
+    this.prefetched = {};
     this.pageRegisterEvents = (0, _mitt["default"])();
     this.loadingRoutes = {};
 
@@ -7825,10 +7825,10 @@ function () {
         }
 
         if (!_this3.loadingRoutes[route]) {
+          _this3.loadingRoutes[route] = true;
+
           if (false) {} else {
             _this3.loadRoute(route);
-
-            _this3.loadingRoutes[route] = true;
           }
         }
       });
@@ -7938,93 +7938,51 @@ function () {
       return (0, _asyncToGenerator2["default"])(
       /*#__PURE__*/
       _regeneratorRuntime.mark(function _callee2() {
-        var scriptRoute, url, cn;
+        var cn, url, scriptRoute;
         return _regeneratorRuntime.wrap(function _callee2$(_context2) {
           while (1) {
             switch (_context2.prev = _context2.next) {
               case 0:
-                route = _this2.normalizeRoute(route);
-                scriptRoute = (route === '/' ? '/index' : route) + ".js";
-
-                if (false) {}
-
-                url = _this2.assetPrefix + (isDependency ? route : "/_next/static/" + encodeURIComponent(_this2.buildId) + "/pages" + encodeURI(scriptRoute)); // n.b. If preload is not supported, we fall back to `loadPage` which has
-                // its own deduping mechanism.
-
-                if (!document.querySelector("link[rel=\"" + prefetchOrPreload + "\"][href^=\"" + url + "\"], script[data-next-page=\"" + route + "\"]")) {
-                  _context2.next = 6;
-                  break;
-                }
-
-                return _context2.abrupt("return");
-
-              case 6:
                 if (!(cn = navigator.connection)) {
-                  _context2.next = 9;
+                  _context2.next = 3;
                   break;
                 }
 
-                if (!((cn.effectiveType || '').indexOf('2g') !== -1 || cn.saveData)) {
-                  _context2.next = 9;
-                  break;
-                }
-
-                return _context2.abrupt("return");
-
-              case 9:
-                if (true) {
-                  _context2.next = 15;
-                  break;
-                }
-
-                ;
-                _context2.next = 13;
-                return _this2.getDependencies(route);
-
-              case 13:
-                _context2.t0 = function (url) {
-                  _this2.prefetch(url, true);
-                };
-
-                _context2.sent.forEach(_context2.t0);
-
-              case 15:
-                if (!hasPreload) {
-                  _context2.next = 18;
-                  break;
-                }
-
-                preloadLink(url, url.match(/\.css$/) ? 'style' : 'script');
-                return _context2.abrupt("return");
-
-              case 18:
-                if (!isDependency) {
-                  _context2.next = 20;
+                if (!(cn.saveData || /2g/.test(cn.effectiveType))) {
+                  _context2.next = 3;
                   break;
                 }
 
                 return _context2.abrupt("return");
 
-              case 20:
-                if (!(document.readyState === 'complete')) {
-                  _context2.next = 24;
+              case 3:
+                url = _this2.assetPrefix;
+
+                if (isDependency) {
+                  url += route;
+                } else {
+                  route = _this2.normalizeRoute(route);
+                  _this2.prefetched[route] = true;
+                  scriptRoute = (route === '/' ? '/index' : route) + ".js";
+
+                  if (false) {}
+
+                  url += "/_next/static/" + encodeURIComponent(_this2.buildId) + "/pages" + encodeURI(scriptRoute);
+                }
+
+                if (!document.querySelector("link[rel=\"" + relPrefetch + "\"][href^=\"" + url + "\"], script[data-next-page=\"" + route + "\"]")) {
+                  _context2.next = 7;
                   break;
                 }
 
-                return _context2.abrupt("return", _this2.loadPage(route)["catch"](function () {}));
+                return _context2.abrupt("return");
 
-              case 24:
-                return _context2.abrupt("return", new _promise["default"](function (resolve) {
-                  window.addEventListener('load', function () {
-                    _this2.loadPage(route).then(function () {
-                      return resolve();
-                    }, function () {
-                      return resolve();
-                    });
-                  });
-                }));
+              case 7:
+                return _context2.abrupt("return", _promise["default"].all([appendLink(url, relPrefetch, url.match(/\.css$/) ? 'style' : 'script'),  false && false]).then( // do not return any data
+                function () {}, // swallow prefetch errors
+                function () {}));
 
-              case 25:
+              case 8:
               case "end":
                 return _context2.stop();
             }
@@ -8546,9 +8504,9 @@ var _regeneratorRuntime = __webpack_require__(/*! @babel/runtime-corejs2/regener
 
 var _slicedToArray = __webpack_require__(/*! @babel/runtime-corejs2/helpers/slicedToArray */ "./node_modules/@babel/runtime-corejs2/helpers/slicedToArray.js");
 
-var _Promise = __webpack_require__(/*! @babel/runtime-corejs2/core-js/promise */ "./node_modules/@babel/runtime-corejs2/core-js/promise.js");
-
 var _Object$assign = __webpack_require__(/*! @babel/runtime-corejs2/core-js/object/assign */ "./node_modules/next/dist/build/polyfills/object-assign.js");
+
+var _Promise = __webpack_require__(/*! @babel/runtime-corejs2/core-js/promise */ "./node_modules/@babel/runtime-corejs2/core-js/promise.js");
 
 var _classCallCheck = __webpack_require__(/*! @babel/runtime-corejs2/helpers/classCallCheck */ "./node_modules/@babel/runtime-corejs2/helpers/classCallCheck.js");
 
@@ -8580,6 +8538,12 @@ var route_matcher_1 = __webpack_require__(/*! ./utils/route-matcher */ "./node_m
 
 var route_regex_1 = __webpack_require__(/*! ./utils/route-regex */ "./node_modules/next/dist/next-server/lib/router/utils/route-regex.js");
 
+function addBasePath(path) {
+  // @ts-ignore variable is always a string
+  var p = "";
+  return path.indexOf(p) !== 0 ? p + path : path;
+}
+
 function toRoute(path) {
   return path.replace(/\/$/, '') || '/';
 }
@@ -8599,6 +8563,9 @@ function () {
         subscription = _ref.subscription;
 
     _classCallCheck(this, Router);
+
+    // Static Data Cache
+    this.sdc = {};
 
     this.onPopState = function (e) {
       if (!e.state) {
@@ -8646,6 +8613,26 @@ function () {
       }
 
       _this.replace(url, as, options);
+    };
+
+    this._getStaticData = function (asPath, _cachedData) {
+      var pathname = url_1.parse(asPath).pathname;
+      pathname = !pathname || pathname === '/' ? '/index' : pathname;
+      return  false ? undefined : fetch( // @ts-ignore __NEXT_DATA__
+      "/_next/data/".concat(__NEXT_DATA__.buildId).concat(pathname, ".json")).then(function (res) {
+        if (!res.ok) {
+          throw new Error("Failed to load static props");
+        }
+
+        return res.json();
+      }).then(function (data) {
+        _this.sdc[pathname] = data;
+        return data;
+      })["catch"](function (err) {
+        ;
+        err.code = 'PAGE_LOAD_ERROR';
+        throw err;
+      });
     }; // represents the current component key
 
 
@@ -8797,7 +8784,7 @@ function () {
           _this2.asPath = as;
           Router.events.emit('hashChangeStart', as);
 
-          _this2.changeState(method, url, as);
+          _this2.changeState(method, url, addBasePath(as));
 
           _this2.scrollToHash(as);
 
@@ -8864,7 +8851,7 @@ function () {
 
           Router.events.emit('beforeHistoryChange', as);
 
-          _this2.changeState(method, url, as, options);
+          _this2.changeState(method, url, addBasePath(as), options);
 
           var hash = window.location.hash.substring(1);
 
@@ -8950,17 +8937,17 @@ function () {
           }
         }
 
-        return new _Promise(function (resolve, reject) {
-          // we provide AppTree later so this needs to be `any`
-          _this3.getInitialProps(Component, {
+        return _this3._getData(function () {
+          return Component.__NEXT_SPR ? _this3._getStaticData(as) : _this3.getInitialProps(Component, // we provide AppTree later so this needs to be `any`
+          {
             pathname: pathname,
             query: query,
             asPath: as
-          }).then(function (props) {
-            routeInfo.props = props;
-            _this3.components[route] = routeInfo;
-            resolve(routeInfo);
-          }, reject);
+          });
+        }).then(function (props) {
+          routeInfo.props = props;
+          _this3.components[route] = routeInfo;
+          return routeInfo;
         });
       })["catch"](function (err) {
         return new _Promise(function (resolve) {
@@ -9118,12 +9105,16 @@ function () {
           }
 
           return;
-        } // Prefetch is not supported in development mode because it would trigger on-demand-entries
+        } // @ts-ignore pathname is always defined
 
 
-        if (true) return; // @ts-ignore pathname is always defined
+        var route = toRoute(pathname); // Prefetch is not supported in development mode because it would trigger on-demand-entries
 
-        var route = toRoute(pathname);
+        if (true) {
+          // mark it as prefetched for debugging in dev
+          _this4.pageLoader.prefetched[route] = true;
+          return;
+        }
 
         _this4.pageLoader.prefetch(route).then(resolve, reject);
       });
@@ -9172,88 +9163,45 @@ function () {
       }, null, this);
     }
   }, {
+    key: "_getData",
+    value: function _getData(fn) {
+      var _this5 = this;
+
+      var cancelled = false;
+
+      var cancel = function cancel() {
+        cancelled = true;
+      };
+
+      this.clc = cancel;
+      return fn().then(function (data) {
+        if (cancel === _this5.clc) {
+          _this5.clc = null;
+        }
+
+        if (cancelled) {
+          var err = new Error('Loading initial props cancelled');
+          err.cancelled = true;
+          throw err;
+        }
+
+        return data;
+      });
+    }
+  }, {
     key: "getInitialProps",
     value: function getInitialProps(Component, ctx) {
-      var cancelled, cancel, App, props, status, _url_1$parse4, pathname, AppTree, err;
+      var App = this.components['/_app'].Component;
 
-      return _regeneratorRuntime.async(function getInitialProps$(_context2) {
-        while (1) {
-          switch (_context2.prev = _context2.next) {
-            case 0:
-              cancelled = false;
+      var AppTree = this._wrapApp(App);
 
-              cancel = function cancel() {
-                cancelled = true;
-              };
-
-              this.clc = cancel;
-              App = this.components['/_app'].Component;
-
-              if (!Component.__NEXT_SPR) {
-                _context2.next = 12;
-                break;
-              }
-
-              // pathname should have leading slash
-              _url_1$parse4 = url_1.parse(ctx.asPath || ctx.pathname), pathname = _url_1$parse4.pathname;
-              pathname = !pathname || pathname === '/' ? '/index' : pathname;
-              _context2.next = 9;
-              return _regeneratorRuntime.awrap(fetch( // @ts-ignore __NEXT_DATA__
-              "/_next/data/".concat(__NEXT_DATA__.buildId).concat(pathname, ".json")).then(function (res) {
-                if (!res.ok) {
-                  status = res.status;
-                  throw new Error('failed to load prerender data');
-                }
-
-                return res.json();
-              })["catch"](function (err) {
-                console.error("Failed to load data", status, err);
-                window.location.href = pathname;
-                return new _Promise(function () {});
-              }));
-
-            case 9:
-              props = _context2.sent;
-              _context2.next = 17;
-              break;
-
-            case 12:
-              AppTree = this._wrapApp(App);
-              ctx.AppTree = AppTree;
-              _context2.next = 16;
-              return _regeneratorRuntime.awrap(utils_1.loadGetInitialProps(App, {
-                AppTree: AppTree,
-                Component: Component,
-                router: this,
-                ctx: ctx
-              }));
-
-            case 16:
-              props = _context2.sent;
-
-            case 17:
-              if (cancel === this.clc) {
-                this.clc = null;
-              }
-
-              if (!cancelled) {
-                _context2.next = 22;
-                break;
-              }
-
-              err = new Error('Loading initial props cancelled');
-              err.cancelled = true;
-              throw err;
-
-            case 22:
-              return _context2.abrupt("return", props);
-
-            case 23:
-            case "end":
-              return _context2.stop();
-          }
-        }
-      }, null, this);
+      ctx.AppTree = AppTree;
+      return utils_1.loadGetInitialProps(App, {
+        AppTree: AppTree,
+        Component: Component,
+        router: this,
+        ctx: ctx
+      });
     }
   }, {
     key: "abortComponentLoad",
@@ -10323,12 +10271,12 @@ exports.encode = exports.stringify = __webpack_require__(/*! ./encode */ "./node
 
 /***/ "./node_modules/react-dom/index.js":
 /*!***********************************************************************************************!*\
-  !*** delegated ./node_modules/react-dom/index.js from dll-reference dll_5f137288facb1107b491 ***!
+  !*** delegated ./node_modules/react-dom/index.js from dll-reference dll_ef0ff7c60362f24a921f ***!
   \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = (__webpack_require__(/*! dll-reference dll_5f137288facb1107b491 */ "dll-reference dll_5f137288facb1107b491"))("./node_modules/react-dom/index.js");
+module.exports = (__webpack_require__(/*! dll-reference dll_ef0ff7c60362f24a921f */ "dll-reference dll_ef0ff7c60362f24a921f"))("./node_modules/react-dom/index.js");
 
 /***/ }),
 
@@ -10346,12 +10294,12 @@ module.exports = (__webpack_require__(/*! dll-reference dll_5f137288facb1107b491
 
 /***/ "./node_modules/react/index.js":
 /*!*******************************************************************************************!*\
-  !*** delegated ./node_modules/react/index.js from dll-reference dll_5f137288facb1107b491 ***!
+  !*** delegated ./node_modules/react/index.js from dll-reference dll_ef0ff7c60362f24a921f ***!
   \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = (__webpack_require__(/*! dll-reference dll_5f137288facb1107b491 */ "dll-reference dll_5f137288facb1107b491"))("./node_modules/react/index.js");
+module.exports = (__webpack_require__(/*! dll-reference dll_ef0ff7c60362f24a921f */ "dll-reference dll_ef0ff7c60362f24a921f"))("./node_modules/react/index.js");
 
 /***/ }),
 
@@ -11092,14 +11040,14 @@ try {
 
 /***/ }),
 
-/***/ "dll-reference dll_5f137288facb1107b491":
+/***/ "dll-reference dll_ef0ff7c60362f24a921f":
 /*!*******************************************!*\
-  !*** external "dll_5f137288facb1107b491" ***!
+  !*** external "dll_ef0ff7c60362f24a921f" ***!
   \*******************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = dll_5f137288facb1107b491;
+module.exports = dll_ef0ff7c60362f24a921f;
 
 /***/ })
 

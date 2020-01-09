@@ -14078,7 +14078,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _fullcalendar_timegrid_main_css__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! @fullcalendar/timegrid/main.css */ "./node_modules/@fullcalendar/timegrid/main.css");
 /* harmony import */ var _fullcalendar_timegrid_main_css__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(_fullcalendar_timegrid_main_css__WEBPACK_IMPORTED_MODULE_8__);
 
-var _jsxFileName = "/Users/ianwarner/Documents/Xinyi-Next/node_modules/industry-ui/components/organisms/fullCalendar/calendarWrapper.js";
+var _jsxFileName = "/Users/xxinyi/code/Next/Portfolio with Next/Xinyi-Next/node_modules/industry-ui/components/organisms/fullCalendar/calendarWrapper.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
