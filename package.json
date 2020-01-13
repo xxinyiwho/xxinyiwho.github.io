@@ -1,9 +1,12 @@
 {
+  "homepage": "http://xxinyiwho.github.io",
   "name": "Xinyi-Next",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
     "dev": "next",
     "check": "npm-check -s -u",
     "start": "next",
@@ -21,7 +24,6 @@
     "serve": "serve out"
   },
   "keywords": [],
-  "author": "Ian Warner <ian.warner@drykiss.com> (https://drykiss.com)",
   "license": "ISC",
   "dependencies": {
     "@zeit/next-sass": "^1.0.1",
@@ -58,6 +60,7 @@
     "babel-plugin-module-resolver": "^4.0.0",
     "babel-plugin-styled-components": "^1.10.6",
     "bcryptjs": "^2.4.3",
+    "gh-pages": "^2.2.0",
     "jsonwebtoken": "^8.5.1",
     "moment": "^2.24.0",
     "next-transpile-modules": "^2.3.1",
