@@ -5,9 +5,6 @@
 // UI
 import { MyApp } from 'industry-ui'
 
-// Layout
-// import Layout from 'layout'
-
 // Config
 import { Theme } from 'config'
 

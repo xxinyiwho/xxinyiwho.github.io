@@ -1,138 +1,64 @@
 {
   "./calendarWrapper": [
     {
-      "id": "./node_modules/react-datepicker/dist/react-datepicker.css",
-      "name": "./node_modules/react-datepicker/dist/react-datepicker.css",
-      "file": "static/chunks/styles.js",
-      "publicPath": "static/chunks/styles.js"
-    },
-    {
-      "id": 4,
-      "name": null,
-      "file": "static/chunks/styles.js",
-      "publicPath": "static/chunks/styles.js"
-    },
-    {
-      "id": "./node_modules/emoji-mart/css/emoji-mart.css",
-      "name": "./node_modules/emoji-mart/css/emoji-mart.css",
-      "file": "static/chunks/styles.js",
-      "publicPath": "static/chunks/styles.js"
-    },
-    {
-      "id": 5,
-      "name": null,
-      "file": "static/chunks/styles.js",
-      "publicPath": "static/chunks/styles.js"
-    },
-    {
-      "id": "./node_modules/@fortawesome/fontawesome-svg-core/styles.css",
-      "name": "./node_modules/@fortawesome/fontawesome-svg-core/styles.css",
-      "file": "static/chunks/styles.js",
-      "publicPath": "static/chunks/styles.js"
-    },
-    {
-      "id": 6,
-      "name": null,
-      "file": "static/chunks/styles.js",
-      "publicPath": "static/chunks/styles.js"
-    },
-    {
-      "id": "./styles/components/main.scss",
+      "id": "KXxU",
       "name": "./styles/components/main.scss",
-      "file": "static/chunks/styles.js",
-      "publicPath": "static/chunks/styles.js"
-    },
-    {
-      "id": 11,
-      "name": null,
-      "file": "static/chunks/styles.js",
-      "publicPath": "static/chunks/styles.js"
-    },
-    {
-      "id": "./node_modules/@fullcalendar/core/main.css",
-      "name": "./node_modules/@fullcalendar/core/main.css",
-      "file": "static/chunks/styles.js",
-      "publicPath": "static/chunks/styles.js"
+      "file": "static/chunks/styles.332a58ee78529eb0b7f5.js",
+      "publicPath": "static/chunks/styles.332a58ee78529eb0b7f5.js"
     },
     {
       "id": 7,
       "name": null,
-      "file": "static/chunks/styles.js",
-      "publicPath": "static/chunks/styles.js"
+      "file": "static/chunks/styles.332a58ee78529eb0b7f5.js",
+      "publicPath": "static/chunks/styles.332a58ee78529eb0b7f5.js"
     },
     {
-      "id": "./node_modules/@fullcalendar/daygrid/main.css",
-      "name": "./node_modules/@fullcalendar/daygrid/main.css",
-      "file": "static/chunks/styles.js",
-      "publicPath": "static/chunks/styles.js"
+      "id": "eV1F",
+      "name": "./node_modules/@fullcalendar/core/main.css",
+      "file": "static/chunks/styles.332a58ee78529eb0b7f5.js",
+      "publicPath": "static/chunks/styles.332a58ee78529eb0b7f5.js"
     },
     {
       "id": 8,
       "name": null,
-      "file": "static/chunks/styles.js",
-      "publicPath": "static/chunks/styles.js"
+      "file": "static/chunks/styles.332a58ee78529eb0b7f5.js",
+      "publicPath": "static/chunks/styles.332a58ee78529eb0b7f5.js"
     },
     {
-      "id": "./node_modules/@fullcalendar/timegrid/main.css",
-      "name": "./node_modules/@fullcalendar/timegrid/main.css",
-      "file": "static/chunks/styles.js",
-      "publicPath": "static/chunks/styles.js"
+      "id": "pDWP",
+      "name": "./node_modules/@fullcalendar/daygrid/main.css",
+      "file": "static/chunks/styles.332a58ee78529eb0b7f5.js",
+      "publicPath": "static/chunks/styles.332a58ee78529eb0b7f5.js"
     },
     {
       "id": 9,
       "name": null,
-      "file": "static/chunks/styles.js",
-      "publicPath": "static/chunks/styles.js"
+      "file": "static/chunks/styles.332a58ee78529eb0b7f5.js",
+      "publicPath": "static/chunks/styles.332a58ee78529eb0b7f5.js"
     },
     {
-      "id": "./node_modules/@fullcalendar/core/main.esm.js",
-      "name": "./node_modules/@fullcalendar/core/main.esm.js",
-      "file": "static/chunks/0.js",
-      "publicPath": "static/chunks/0.js"
+      "id": "FZkX",
+      "name": "./node_modules/@fullcalendar/timegrid/main.css",
+      "file": "static/chunks/styles.332a58ee78529eb0b7f5.js",
+      "publicPath": "static/chunks/styles.332a58ee78529eb0b7f5.js"
     },
     {
-      "id": "./node_modules/@fullcalendar/daygrid/main.esm.js",
-      "name": "./node_modules/@fullcalendar/daygrid/main.esm.js",
-      "file": "static/chunks/0.js",
-      "publicPath": "static/chunks/0.js"
+      "id": 10,
+      "name": null,
+      "file": "static/chunks/styles.332a58ee78529eb0b7f5.js",
+      "publicPath": "static/chunks/styles.332a58ee78529eb0b7f5.js"
     },
     {
-      "id": "./node_modules/@fullcalendar/interaction/main.esm.js",
-      "name": "./node_modules/@fullcalendar/interaction/main.esm.js",
-      "file": "static/chunks/0.js",
-      "publicPath": "static/chunks/0.js"
-    },
-    {
-      "id": "./node_modules/@fullcalendar/react/main.esm.js",
-      "name": "./node_modules/@fullcalendar/react/main.esm.js",
-      "file": "static/chunks/0.js",
-      "publicPath": "static/chunks/0.js"
-    },
-    {
-      "id": "./node_modules/@fullcalendar/timegrid/main.esm.js",
-      "name": "./node_modules/@fullcalendar/timegrid/main.esm.js",
-      "file": "static/chunks/0.js",
-      "publicPath": "static/chunks/0.js"
-    },
-    {
-      "id": "./node_modules/fast-deep-equal/index.js",
-      "name": "./node_modules/fast-deep-equal/index.js",
-      "file": "static/chunks/0.js",
-      "publicPath": "static/chunks/0.js"
-    },
-    {
-      "id": "./node_modules/industry-ui/components/organisms/fullCalendar/calendarWrapper.js",
+      "id": "DVmL",
       "name": "./node_modules/industry-ui/components/organisms/fullCalendar/calendarWrapper.js",
-      "file": "static/chunks/0.js",
-      "publicPath": "static/chunks/0.js"
-    }
-  ],
-  "./dev/noop": [
+      "file": "static/chunks/8.a496534403f150ad8d4e.js",
+      "publicPath": "static/chunks/8.a496534403f150ad8d4e.js"
+    },
     {
-      "id": "./node_modules/next/dist/client/dev/noop.js",
-      "name": "./node_modules/next/dist/client/dev/noop.js",
-      "file": "static/chunks/1.js",
-      "publicPath": "static/chunks/1.js"
+      "id": "aUsF",
+      "name": "./node_modules/fast-deep-equal/index.js",
+      "file": "static/chunks/8.a496534403f150ad8d4e.js",
+      "publicPath": "static/chunks/8.a496534403f150ad8d4e.js"
     }
   ]
 }
